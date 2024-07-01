@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A Passionate Full Stack Java Developer</h3>
 
-- 💬 Ask me about **Java, Spring boot,MicroServices,Reactjs**
+- 💬 Ask me about **Java, Spring boot, MicroServices, Reactjs**
 
 - 📫 How to reach me **mamidipallipavan738@gmail.com**
 
